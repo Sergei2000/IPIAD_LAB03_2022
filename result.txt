@@ -1,0 +1,14 @@
+50/50 devision:
+studying Gaussian model
+now it is clever
+Gaus Model accurancy is :  0.9461852861035422
+Studying model
+model is clever
+Svc Model accurancy is :  0.9209809264305178
+75/25 devision:
+studying Gaussian model
+now it is clever
+Gaus Model accurancy is :  0.9645776566757494
+Studying model
+model is clever
+Svc Model accurancy is :  0.9577656675749319
